@@ -1,0 +1,15 @@
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.exe
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.deps.json
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.runtimeconfig.json
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.dll
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.pdb
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.csproj.AssemblyReference.cache
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.AssemblyInfoInputs.cache
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.AssemblyInfo.cs
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.dll
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\refint\ClockAngle.dll
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.pdb
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.genruntimeconfig.cache
+C:\Users\migle\OneDrive\Documents\Git\test\ClockAngle\ClockAngle\obj\Debug\net6.0\ref\ClockAngle.dll
